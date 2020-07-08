@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Bootcamp Java\GitHub\Book_Store_1\.metadata\.plugins\org.eclipse.jdt.core
+17166607.index
+2010349992.index
+2346147435.index
